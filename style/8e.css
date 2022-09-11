@@ -1,0 +1,37 @@
+.h1{
+  font-size: 30px;
+  font-family: Arial;
+  margin-bottom: 20px;
+}
+input{
+  font-size: 16px;
+  width: 300px;
+  border: none;
+  background-color: rgb(243, 243, 243);
+  padding-top: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.request{
+  background-color: black;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+}
+.sheldure{
+background-color: rgb(243, 243, 243);
+padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  margin-left: 10px;
+ 
+}
